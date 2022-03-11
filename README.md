@@ -1,4 +1,4 @@
-# Docsy Jekyll Theme
+# Docsy Jekyll Theme - DEMO
 
 [![CircleCI](https://circleci.com/gh/vsoch/docsy-jekyll/tree/master.svg?style=svg)](https://circleci.com/gh/vsoch/docsy-jekyll/tree/master)
 <a href="https://jekyll-themes.com/docsy-jekyll/">
