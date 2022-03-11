@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Docsy Jekyll
+title: Docsy Jekyll Demo
 email: your-email@domain.com
-author: Dinosaur Avocado
+author: some devops
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -29,15 +29,15 @@ baseurl: "/docsy-jekyll" # the subpath of your site, e.g. /blog
 url: "https://vsoch.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/vsoch/docsy-jekyll"
-github_user: "vsoch"
-github_repo: "docsy-jekyll"
+repo: "https://github.com/greising/docsy-jekyll-demo/"
+github_user: "greising"
+github_repo: "docsy-jekyll-demo"
 github_branch: "master"
 
 # Optional
-twitter: vsoch
-linkedin: vsochat
-dockerhub: vanessa
+twitter: greising
+linkedin: greising
+dockerhub: greising
 
 # Should there be feedback buttons at the bottom of pages?
 feedback: true
@@ -62,7 +62,7 @@ markdown: kramdown
 tag_color: primary # danger, success, warning, primary, info, secondary
 
 accentColor: red # purple, green, etc.
-themeColor: red # purple, green, blue, orange, purple, grey
+themeColor: black # purple, green, blue, orange, purple, grey
 fixedNav: 'true' # true or false
 
 permalink: /:year/:title/
